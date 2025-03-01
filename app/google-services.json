@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "814378883331",
+    "project_id": "message-ce6d8",
+    "storage_bucket": "message-ce6d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814378883331:android:74867f15389bd2a8a97136",
+        "android_client_info": {
+          "package_name": "com.example.coins"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyaTetxDgdSLRGnrCtcTqIzJjO-bPYK-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814378883331:android:93ff52562aa987dfa97136",
+        "android_client_info": {
+          "package_name": "com.example.easychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyaTetxDgdSLRGnrCtcTqIzJjO-bPYK-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814378883331:android:37c0dd4d82953c23a97136",
+        "android_client_info": {
+          "package_name": "com.example.messageapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyaTetxDgdSLRGnrCtcTqIzJjO-bPYK-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

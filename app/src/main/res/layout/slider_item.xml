@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/images"
+        android:layout_marginTop="12dp"
+        android:src="@drawable/image2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </ImageView>
+
+    <TextView
+        android:id="@+id/head"
+        android:textStyle="bold"
+        android:textSize="28dp"
+        android:textColor="@color/black"
+        android:layout_gravity="center_horizontal"
+        android:text="Trust the app million "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/second"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:layout_gravity="center_horizontal"
+        android:text="Of people part of one "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </TextView>
+    <TextView
+        android:id="@+id/thirt"
+        android:textStyle="bold"
+        android:textSize="35dp"
+        android:textColor="@color/black"
+        android:layout_gravity="center_horizontal"
+        android:text="Spend money"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </TextView>
+
+
+</LinearLayout>
