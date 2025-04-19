@@ -15,4 +15,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Coins"
 include(":app")
+include (":app', ':mylibrary")
 include(":Myname")
+include(":mylibrary")
